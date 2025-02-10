@@ -1,0 +1,6 @@
+[submodule "ecsite_with_django"]
+	path = ecsite_with_django
+	url = https://github.com/takuaki-taku/django_ecsite.git
+[submodule "next.js-frontend"]
+	path = next.js-frontend
+	url = https://github.com/takuaki-taku/ecsite-next.js-frontend.git
